@@ -1,3 +1,4 @@
+package program3;
 public class Employee extends Person {
     String empId;
     int salary;

@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+package program3;
+>>>>>>> employee_details
 public class Person {
     String name;
     String dob; // YYYY-MM-DD
